@@ -1,5 +1,15 @@
 # router-tester
 
+## 1.0.16
+
+### Patch Changes
+
+- Updated dependencies.
+  - expo@58.0.22
+  - expo-constants@58.0.14
+  - expo-router@58.0.29
+  - expo-image@58.0.18
+
 ## 1.0.15
 
 ### Patch Changes

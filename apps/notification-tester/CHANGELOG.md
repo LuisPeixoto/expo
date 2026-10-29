@@ -1,5 +1,19 @@
 # notification-tester
 
+## 1.0.16
+
+### Patch Changes
+
+- Updated dependencies. ([#52401](https://github.com/expo/expo/pull/52401), [#52379](https://github.com/expo/expo/pull/52379), [#51701](https://github.com/expo/expo/pull/51701))
+  - expo-sqlite@58.0.15
+  - expo-updates@58.0.20
+  - expo-task-manager@58.0.13
+  - test-suite@1.0.16
+  - expo@58.0.22
+  - native-component-list@0.0.16
+  - expo-constants@58.0.14
+  - expo-router@58.0.29
+
 ## 1.0.15
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # Changelog
 
+## 58.0.22
+
+### Patch Changes
+
+- Updated dependencies. ([#51677](https://github.com/expo/expo/pull/51677), [#52153](https://github.com/expo/expo/pull/52153), [#52322](https://github.com/expo/expo/pull/52322), [#52450](https://github.com/expo/expo/pull/52450))
+  - expo-modules-core@58.0.29
+  - @expo/fingerprint@0.21.8
+  - @expo/log-box@58.0.14
+  - @expo/cli@58.1.18
+
 ## 58.0.21
 
 ### Patch Changes

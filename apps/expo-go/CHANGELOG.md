@@ -1,5 +1,21 @@
 # @expo/home
 
+## 0.0.17
+
+### Patch Changes
+
+- Updated dependencies. ([#52321](https://github.com/expo/expo/pull/52321), [#51572](https://github.com/expo/expo/pull/51572), [#52401](https://github.com/expo/expo/pull/52401), [#52379](https://github.com/expo/expo/pull/52379), [#51701](https://github.com/expo/expo/pull/51701))
+  - expo-audio@58.0.11
+  - expo-gl@58.0.4
+  - expo-sqlite@58.0.15
+  - expo-updates@58.0.20
+  - expo-task-manager@58.0.13
+  - expo@58.0.22
+  - expo-constants@58.0.14
+  - expo-router@58.0.29
+  - expo-background-fetch@58.0.12
+  - expo-background-task@58.0.12
+
 ## 0.0.16
 
 ### Patch Changes

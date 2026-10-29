@@ -1,5 +1,14 @@
 # Changelog
 
+## 58.1.18
+
+### Patch Changes
+
+- Warn when Worklets Bundle Mode is detected in the Metro configuration. ([#52450](https://github.com/expo/expo/pull/52450) by [@kitten](https://github.com/kitten))
+- Updated dependencies. ([#52322](https://github.com/expo/expo/pull/52322))
+  - @expo/log-box@58.0.14
+  - @expo/router-server@58.0.20
+
 ## 58.1.17
 
 ### Patch Changes
